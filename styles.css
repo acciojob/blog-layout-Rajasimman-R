@@ -4,7 +4,6 @@ body{
 	display:grid;
 	grid-template-columns: 30% 30% 30%;
 	justify-content:center;
-	height:25%;
 	gap:10px;
 }
 .box{
