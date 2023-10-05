@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-.blog-column{
+.blog-layout{
 	background-color:gray;
 	display:grid;
 	 grid-template-columns: repeat(4, 1fr);
@@ -7,7 +7,7 @@
 	gap:10px;
 	padding:1rem;
 }
-.column{
+.blog-column{
 	background-color:#faf9f7;
 	text-align:center;
 	border-radius:5px;
