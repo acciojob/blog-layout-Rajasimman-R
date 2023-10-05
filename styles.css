@@ -11,4 +11,9 @@
 	background-color:#faf9f7;
 	text-align:center;
 	border-radius:5px;
+	padding:1rem;
+}
+ul{
+	list-style-type:none;
+	display:inline;
 }
